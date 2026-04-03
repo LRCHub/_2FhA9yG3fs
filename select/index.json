@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "I Would Die for You",
+  "base_artist": "In This Moment",
+  "createdAt": "2026-04-03T03:32:26.646245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Would Die for You",
+      "artist": "Asia",
+      "has_synced": true,
+      "path": "select/01_I_Would_Die_for_You_Asia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(I Would) Die For You",
+      "artist": "Antique",
+      "has_synced": true,
+      "path": "select/02_(I_Would)_Die_For_You_Antique.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Would Die For You",
+      "artist": "WEAVER",
+      "has_synced": false,
+      "path": "select/03_I_Would_Die_For_You_WEAVER.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(I Would) Die for You",
+      "artist": "Antique",
+      "has_synced": true,
+      "path": "select/04_(I_Would)_Die_for_You_Antique.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Would Die For You",
+      "artist": "Fady Maalouf",
+      "has_synced": false,
+      "path": "select/05_I_Would_Die_For_You_Fady_Maalouf.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Would Die for You",
+      "artist": "Jann Arden",
+      "has_synced": true,
+      "path": "select/06_I_Would_Die_for_You_Jann_Arden.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Would Die for You",
+      "artist": "Loverboy",
+      "has_synced": false,
+      "path": "select/07_I_Would_Die_for_You_Loverboy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Would Die For You",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/08_I_Would_Die_For_You_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I WOULD DIE FOR YOU",
+      "artist": "In This Moment",
+      "has_synced": true,
+      "path": "select/09_I_WOULD_DIE_FOR_YOU_In_This_Moment.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I WOULD DIE FOR YOU",
+      "artist": "In This Moment",
+      "has_synced": false,
+      "path": "select/10_I_WOULD_DIE_FOR_YOU_In_This_Moment.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(I Would) Die For You",
+      "artist": "Antique",
+      "has_synced": true,
+      "path": "select/11_(I_Would)_Die_For_You_Antique.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Would Die for You",
+      "artist": "Matt Walters",
+      "has_synced": false,
+      "path": "select/12_I_Would_Die_for_You_Matt_Walters.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Would Die For You (Filterheadz Remix)",
+      "artist": "Chainside",
+      "has_synced": false,
+      "path": "select/13_I_Would_Die_For_You_(Filterheadz_Remix)_Chainside.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Would Die For You",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/14_I_Would_Die_For_You_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Would Die For You",
+      "artist": "Jann Arden",
+      "has_synced": true,
+      "path": "select/15_I_Would_Die_For_You_Jann_Arden.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Would Die For You",
+      "artist": "Chainside",
+      "has_synced": true,
+      "path": "select/16_I_Would_Die_For_You_Chainside.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Would Die For You (Instrumental Mix)",
+      "artist": "Chainside",
+      "has_synced": false,
+      "path": "select/17_I_Would_Die_For_You_(Instrumental_Mix)_Chainside.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Something I Would Die For",
+      "artist": "Millencolin",
+      "has_synced": false,
+      "path": "select/18_Something_I_Would_Die_For_Millencolin.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Would Die For That",
+      "artist": "Kellie Coffey",
+      "has_synced": false,
+      "path": "select/19_I_Would_Die_For_That_Kellie_Coffey.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I WOULD DIE FOR YOU",
+      "artist": "In This Moment",
+      "has_synced": false,
+      "path": "select/pl_01_I_WOULD_DIE_FOR_YOU_In_This_Moment.txt"
+    }
+  ]
+}
